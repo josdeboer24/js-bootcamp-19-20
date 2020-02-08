@@ -1,28 +1,28 @@
 ---
-name: 🔗 Repository link
-about: Hand in a link to your repository with the exercises and summaries.
-title: Repository
+name: Jos de Boer 🔗 https://github.com/josdeboer24/Stuff
+about: https://github.com/josdeboer24/Stuff
+title: stuff
 labels: 'repository, bootcamp'
 ---
 
 # My Introduction
 
-<!-- A small heads up before you begin typing, never mention your name in combination with your AUAS student number in public.* -->
+Hoi, ik ben Jos de Boer. Ik ben 19 jaar oud en woon in Volendam. 
 
 ## Name
-<!-- Add your name here` -->
+Jos de Boer
 
 ## Class
-<!-- Add your class here -->
+207 / tech 2
 
 ## About me
-<!-- Write something about yourself -->
+Ik ben graag bezig met muziek en andere creative activiteiten. In de zomer ga ik ook vaak zeilen. Wat CMD betreft heb ik interesse in onderzoek doen en programmeren.
 
 ## Skill level
-<!-- How would you describe you skill level after the bootcamp? (e.g. beginner, intermediate, advanced) -->
+Hoewel ik code leuk vind en ik ook met enige inzet iets cools kan maken, zie ik mijzelf nog als een beginner.
 
 ## GitHub username
-<!-- Add a link to your github page`-->
+Mijn github username is josdeboer24.
 
 ## GitHub repository
-<!-- Add a link to your bootcamp repository` -->
+https://github.com/josdeboer24/Stuff
